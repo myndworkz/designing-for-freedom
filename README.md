@@ -22,8 +22,8 @@
   <main>
     <section id="hero">
       <p class="blurb">
-        Design is not decoration. Design is choice, pattern, and power.
-        In politics, as in architecture, <strong>how we build is what we build</strong>.
+        Design is not decoration. Design is choice, pattern and power.
+        In politics - as in architecture - <strong>how we build is what we build</strong>.
       </p>
     </section>
 
