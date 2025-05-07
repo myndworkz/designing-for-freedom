@@ -69,3 +69,35 @@ footer {
   padding: 1em;
   font-size: 0.9em;
 }
+/* CAROUSEL STYLING */
+#carousel {
+  margin: 4em 0;
+  text-align: center;
+}
+
+.carousel-container {
+  overflow: hidden;
+  width: 100%;
+}
+
+.carousel-track {
+  display: flex;
+  gap: 3em;
+  padding: 1em;
+  animation: scroll 30s linear infinite;
+  width: max-content;
+}
+
+.carousel-pair {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 1em;
+}
+
+.carousel-pair img {
+  height: 300px;
+  object-fit: contain;
+  border: 2px solid #eee;
+  background: #fff;
+}
